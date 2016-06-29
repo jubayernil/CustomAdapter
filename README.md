@@ -1,0 +1,2 @@
+# CustomAdapter
+Custom Adapter
